@@ -1,0 +1,49 @@
+body {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif
+    font: italic;
+   
+}
+
+
+.card {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #dde5b6;
+    color: #2b2839;
+    border-bottom: 10px solid #6c584c;
+        
+    /*
+    Challenge:
+    Find a color palette you like on Coolors.co
+    and use it in your business card.
+     */
+}
+
+.avatar {
+    width: 200px;
+     border: 3px solid #6c584c;
+     border-radius: 25px;
+}
+.border-blue {
+    border: 1px dotted blue;
+
+}
+    
+    
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
